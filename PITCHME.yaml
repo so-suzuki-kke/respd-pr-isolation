@@ -1,0 +1,14 @@
+#テーマの設定
+theme : sky
+
+
+#ロゴアイコンの設定
+logo : kke-logo.png
+
+
+#フットノートの設定
+footnote : "c 2017 KOZO KEIKAKU ENGINEERING Inc. All Rights Reserved"
+
+
+#スライドのページ数表示の設定
+slide-number: true
